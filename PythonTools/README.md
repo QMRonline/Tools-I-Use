@@ -4,9 +4,9 @@ The tools what i work with <br />
 ***************************************************************************************************
 #Requirements <br />
   #install python     //python3 is recommended <br />
-    #https://www.python.org/downloads/      //follow this link
+    #https://www.python.org/downloads/      //follow this link <br />
   #install Git
-    #https://git-scm.com/downloads          //follow this link
+    #https://git-scm.com/downloads          //follow this link <br />
   
 ***************************************************************************************************
 #To run qmark-wifi-hack.py script follow the instruction <br />
