@@ -10,20 +10,20 @@ The tools what i work with <br />
   
 ***************************************************************************************************
 #To run qmark-wifi-hack.py script follow the instruction <br />
-  #open command prompt 
-  #type the command [python3 qmark-show-pass.py]
-  #enjoy with the output hack safe ! have fun !
+  #open command prompt  <br />
+  #type the command [python3 qmark-show-pass.py] <br />
+  #enjoy with the output hack safe ! have fun ! <br />
   #this tools is recommended to run on windows, to run in linux little tweaks required have fun! <br />
   
 ***************************************************************************************************
 #To run qmark-wifi-deauth.py script follow the instruction <br />
-  #use a wifi adapter that supports moniter mode
-  #connect and check weather the adapter status using this command [iwconfig]
-  #open terminal 
-  #navigate to the script folder 
-  #type the command [sudo python3 qmark-wifi-deauth.py]
-  #select the wifi adapter
-  #press CTRL + C to exit the scan and select the target
+  #use a wifi adapter that supports moniter mode <br />
+  #connect and check weather the adapter status using this command [iwconfig] <br />
+  #open terminal  <br />
+  #navigate to the script folder  <br />
+  #type the command [sudo python3 qmark-wifi-deauth.py] <br /> <br />
+  #select the wifi adapter <br />
+  #press CTRL + C to exit the scan and select the target <br />
   #deauth script will execute have fun ! <br />
  
 ***************************************************************************************************
