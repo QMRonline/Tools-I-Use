@@ -11,7 +11,7 @@ The tools what i work with
 ***************************************************************************************************
 #To run qmark-wifi-hack.py script
   #open command prompt 
-  #type the command [python3 qmark-wifi-hack.py]
+  #type the command [python3 qmark-show-pass.py]
   #enjoy with the output hack safe ! have fun !
   
 ***************************************************************************************************
