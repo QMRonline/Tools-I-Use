@@ -21,7 +21,7 @@ The tools what i work with <br />
   #connect and check weather the adapter status using this command [iwconfig] <br />
   #open terminal  <br />
   #navigate to the script folder  <br />
-  #type the command [sudo python3 qmark-wifi-deauth.py] <br /> <br />
+  #type the command [sudo python3 qmark-wifi-deauth.py] <br />
   #select the wifi adapter <br />
   #press CTRL + C to exit the scan and select the target <br />
   #deauth script will execute have fun ! <br />
