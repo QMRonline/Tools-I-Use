@@ -13,5 +13,7 @@ The tools what i work with
   #open command prompt 
   #type the command [python3 qmark-show-pass.py]
   #enjoy with the output hack safe ! have fun !
+  #this tools can only work with windows do a little tweaks in the script to work on linux too .!
   
 ***************************************************************************************************
+#To run 
