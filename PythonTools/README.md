@@ -1,10 +1,10 @@
 #HackingTools <br />
-The tools what i work with
+The tools what i work with <br />
 
 ***************************************************************************************************
-#Requirements
-  #install python     //python3 is recommended
-    #https://www.python.org/downloads/      //follow this link  
+#Requirements <br />
+  #install python     //python3 is recommended <br />
+    #https://www.python.org/downloads/      //follow this link   <br>
   #install Git
     #https://git-scm.com/downloads          //follow this link
   
